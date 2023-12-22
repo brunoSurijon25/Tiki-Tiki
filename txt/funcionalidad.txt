@@ -1,0 +1,12 @@
+ELEMENTOS BOOTSTRAP:
+
+Ventana Modal
+Tarjetas de Productos
+Barra de Navegacion
+Footer con informacion personal
+
+BREAKPOINTS:
+
+320 px - 576 px = mobile
+577 px- 992 px = tablet
+min 992 px = Desktop
